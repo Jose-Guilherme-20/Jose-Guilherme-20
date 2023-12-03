@@ -21,6 +21,7 @@
   <img align="center" alt=".Git" height="30" width="40" src="https://icongr.am/devicon/git-original.svg?size=120&color=181818">
   <img align="center" alt=".GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg">
     <img align="center" alt="TypeScript" height="30" width="40" src="https://icongr.am/devicon/typescript-original.svg?size=120&color=181818">
+    <img align="center" alt="TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
 
   
           
