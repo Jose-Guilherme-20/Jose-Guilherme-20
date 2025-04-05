@@ -1,8 +1,8 @@
 <h1 align="center">Olá 👋, sou José Guilherme</h1>
-<h3 align="center">Desenvolvedor Web Back-end</h3>
+<h3 align="center">Desenvolvedor .NET</h3>
 
 
-- 🌱 Estou aprendendo * *autenticação e autorização com passport e jwt, api rest, Node**
+- 🌱 Estou aprendendo * *React, microsserviços, clean code e arquitetura limpa**
 
 ## Opa eu sou José Guilherme!
 <div align="center">
