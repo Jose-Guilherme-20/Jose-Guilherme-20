@@ -19,6 +19,7 @@
   <img align="center" alt=".Git" height="30" width="40" src="https://icongr.am/devicon/git-original.svg?size=120&color=181818">
   <img align="center" alt=".GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg">
     <img align="center" alt="TypeScript" height="30" width="40" src="https://icongr.am/devicon/typescript-original.svg?size=120&color=181818">
+    <img align="center" alt="Angular" height="30" width="40" src="[https://icongr.am/devicon/typescript-original.svg?size=120&color=181818](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original-wordmark.svg)">
     <img align="center" alt="SqlServer" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
     <img align="center" alt="Azure" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg">
 
