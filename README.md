@@ -2,7 +2,7 @@
 <h3 align="center">Desenvolvedor .NET</h3>
 
 
-- 🌱 Estou aprendendo * *React, microsserviços, clean code e arquitetura limpa**
+- 🌱 Estou aprendendo * *Angular, microsserviços, rabbitMq**
 
 ## Opa eu sou José Guilherme!
 <div align="center">
